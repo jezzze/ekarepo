@@ -16,5 +16,10 @@ namespace Harjoitus1
         {
             InitializeComponent();
         }
+
+        private void VahidaLB_Click(object sender, EventArgs e)
+        {
+            OtsikkoLB.Text = "Heippa maailma";
+        }
     }
 }
