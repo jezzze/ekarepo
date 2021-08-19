@@ -1,0 +1,10 @@
+C:\Users\jesse.mitronen\source\repos\Harjoitus 5\Harjoitus 5\bin\Debug\Harjoitus 5.exe.config
+C:\Users\jesse.mitronen\source\repos\Harjoitus 5\Harjoitus 5\bin\Debug\Harjoitus 5.exe
+C:\Users\jesse.mitronen\source\repos\Harjoitus 5\Harjoitus 5\bin\Debug\Harjoitus 5.pdb
+C:\Users\jesse.mitronen\source\repos\Harjoitus 5\Harjoitus 5\obj\Debug\Lukujen järjestys.csprojAssemblyReference.cache
+C:\Users\jesse.mitronen\source\repos\Harjoitus 5\Harjoitus 5\obj\Debug\Harjoitus_5.Form1.resources
+C:\Users\jesse.mitronen\source\repos\Harjoitus 5\Harjoitus 5\obj\Debug\Harjoitus_5.Properties.Resources.resources
+C:\Users\jesse.mitronen\source\repos\Harjoitus 5\Harjoitus 5\obj\Debug\Lukujen järjestys.csproj.GenerateResource.cache
+C:\Users\jesse.mitronen\source\repos\Harjoitus 5\Harjoitus 5\obj\Debug\Lukujen järjestys.csproj.CoreCompileInputs.cache
+C:\Users\jesse.mitronen\source\repos\Harjoitus 5\Harjoitus 5\obj\Debug\Harjoitus 5.exe
+C:\Users\jesse.mitronen\source\repos\Harjoitus 5\Harjoitus 5\obj\Debug\Harjoitus 5.pdb
