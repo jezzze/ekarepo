@@ -1,0 +1,10 @@
+C:\Users\jesse.mitronen\source\repos\RoomalaisetNumerot\RoomalaisetNumerot\bin\Debug\RoomalaisetNumerot.exe.config
+C:\Users\jesse.mitronen\source\repos\RoomalaisetNumerot\RoomalaisetNumerot\bin\Debug\RoomalaisetNumerot.exe
+C:\Users\jesse.mitronen\source\repos\RoomalaisetNumerot\RoomalaisetNumerot\bin\Debug\RoomalaisetNumerot.pdb
+C:\Users\jesse.mitronen\source\repos\RoomalaisetNumerot\RoomalaisetNumerot\obj\Debug\RoomalaisetNumerot.csprojAssemblyReference.cache
+C:\Users\jesse.mitronen\source\repos\RoomalaisetNumerot\RoomalaisetNumerot\obj\Debug\RoomalaisetNumerot.Form1.resources
+C:\Users\jesse.mitronen\source\repos\RoomalaisetNumerot\RoomalaisetNumerot\obj\Debug\RoomalaisetNumerot.Properties.Resources.resources
+C:\Users\jesse.mitronen\source\repos\RoomalaisetNumerot\RoomalaisetNumerot\obj\Debug\RoomalaisetNumerot.csproj.GenerateResource.cache
+C:\Users\jesse.mitronen\source\repos\RoomalaisetNumerot\RoomalaisetNumerot\obj\Debug\RoomalaisetNumerot.csproj.CoreCompileInputs.cache
+C:\Users\jesse.mitronen\source\repos\RoomalaisetNumerot\RoomalaisetNumerot\obj\Debug\RoomalaisetNumerot.exe
+C:\Users\jesse.mitronen\source\repos\RoomalaisetNumerot\RoomalaisetNumerot\obj\Debug\RoomalaisetNumerot.pdb
