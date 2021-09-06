@@ -1,0 +1,10 @@
+C:\Users\jesse.mitronen\source\repos\Harjoitus 15\Harjoitus 15\bin\Debug\Harjoitus 15.exe.config
+C:\Users\jesse.mitronen\source\repos\Harjoitus 15\Harjoitus 15\bin\Debug\Harjoitus 15.exe
+C:\Users\jesse.mitronen\source\repos\Harjoitus 15\Harjoitus 15\bin\Debug\Harjoitus 15.pdb
+C:\Users\jesse.mitronen\source\repos\Harjoitus 15\Harjoitus 15\obj\Debug\Harjoitus 15.csprojAssemblyReference.cache
+C:\Users\jesse.mitronen\source\repos\Harjoitus 15\Harjoitus 15\obj\Debug\Harjoitus_15.sekunttiForm.resources
+C:\Users\jesse.mitronen\source\repos\Harjoitus 15\Harjoitus 15\obj\Debug\Harjoitus_15.Properties.Resources.resources
+C:\Users\jesse.mitronen\source\repos\Harjoitus 15\Harjoitus 15\obj\Debug\Harjoitus 15.csproj.GenerateResource.cache
+C:\Users\jesse.mitronen\source\repos\Harjoitus 15\Harjoitus 15\obj\Debug\Harjoitus 15.csproj.CoreCompileInputs.cache
+C:\Users\jesse.mitronen\source\repos\Harjoitus 15\Harjoitus 15\obj\Debug\Harjoitus 15.exe
+C:\Users\jesse.mitronen\source\repos\Harjoitus 15\Harjoitus 15\obj\Debug\Harjoitus 15.pdb
