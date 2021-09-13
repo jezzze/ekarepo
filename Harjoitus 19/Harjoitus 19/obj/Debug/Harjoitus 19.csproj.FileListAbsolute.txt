@@ -1,0 +1,10 @@
+C:\Users\jesse\source\repos\Harjoitus 19\Harjoitus 19\bin\Debug\Harjoitus 19.exe.config
+C:\Users\jesse\source\repos\Harjoitus 19\Harjoitus 19\bin\Debug\Harjoitus 19.exe
+C:\Users\jesse\source\repos\Harjoitus 19\Harjoitus 19\bin\Debug\Harjoitus 19.pdb
+C:\Users\jesse\source\repos\Harjoitus 19\Harjoitus 19\obj\Debug\Harjoitus 19.csprojAssemblyReference.cache
+C:\Users\jesse\source\repos\Harjoitus 19\Harjoitus 19\obj\Debug\Harjoitus_19.RuokalistaForm.resources
+C:\Users\jesse\source\repos\Harjoitus 19\Harjoitus 19\obj\Debug\Harjoitus_19.Properties.Resources.resources
+C:\Users\jesse\source\repos\Harjoitus 19\Harjoitus 19\obj\Debug\Harjoitus 19.csproj.GenerateResource.cache
+C:\Users\jesse\source\repos\Harjoitus 19\Harjoitus 19\obj\Debug\Harjoitus 19.csproj.CoreCompileInputs.cache
+C:\Users\jesse\source\repos\Harjoitus 19\Harjoitus 19\obj\Debug\Harjoitus 19.exe
+C:\Users\jesse\source\repos\Harjoitus 19\Harjoitus 19\obj\Debug\Harjoitus 19.pdb
