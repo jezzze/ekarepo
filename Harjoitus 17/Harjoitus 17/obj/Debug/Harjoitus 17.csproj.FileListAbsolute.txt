@@ -1,0 +1,10 @@
+C:\Users\jesse.mitronen\source\repos\Harjoitus 17\Harjoitus 17\bin\Debug\Harjoitus 17.exe.config
+C:\Users\jesse.mitronen\source\repos\Harjoitus 17\Harjoitus 17\bin\Debug\Harjoitus 17.exe
+C:\Users\jesse.mitronen\source\repos\Harjoitus 17\Harjoitus 17\bin\Debug\Harjoitus 17.pdb
+C:\Users\jesse.mitronen\source\repos\Harjoitus 17\Harjoitus 17\obj\Debug\Harjoitus 17.csprojAssemblyReference.cache
+C:\Users\jesse.mitronen\source\repos\Harjoitus 17\Harjoitus 17\obj\Debug\Harjoitus_17.MuistioForm.resources
+C:\Users\jesse.mitronen\source\repos\Harjoitus 17\Harjoitus 17\obj\Debug\Harjoitus_17.Properties.Resources.resources
+C:\Users\jesse.mitronen\source\repos\Harjoitus 17\Harjoitus 17\obj\Debug\Harjoitus 17.csproj.GenerateResource.cache
+C:\Users\jesse.mitronen\source\repos\Harjoitus 17\Harjoitus 17\obj\Debug\Harjoitus 17.csproj.CoreCompileInputs.cache
+C:\Users\jesse.mitronen\source\repos\Harjoitus 17\Harjoitus 17\obj\Debug\Harjoitus 17.exe
+C:\Users\jesse.mitronen\source\repos\Harjoitus 17\Harjoitus 17\obj\Debug\Harjoitus 17.pdb
